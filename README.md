@@ -1,2 +1,4 @@
 # comp211-git-practice
 COMP 211 git/GitHub practice
+
+Practicing Partner 2 commit in Readme
