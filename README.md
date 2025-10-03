@@ -2,3 +2,5 @@
 COMP 211 git/GitHub practice
 
 Practicing Partner 2 commit in Readme
+
+Practicing Parter 1 commit in README
